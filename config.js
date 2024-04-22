@@ -37,8 +37,8 @@ global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
-global.error = '❌' 
-global.xmoji = '🔥' 
+global.error = '🏳' 
+global.xmoji = '🎩' 
 
 //management
 global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
