@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '917002015750', process.env.OWNER_NAME || 'ᯓ ᡣ𐭩 𝞓𝙎⚛️', true],
+  ['917002015750', 'ᯓ ᡣ𐭩 𝞓𝙎⚛️', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || '𝑆𝛩𝛻𝛪𝛯𝑇 𝛥𝛥𝛮𝛪'
+global.botname = process.env.BOT_NAME || '𝑆𝛩𝛻𝛪𝛯𝑇 𝛥𝛥𝛮𝛪'
  
  
  //Api's
@@ -26,8 +26,8 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || '𝑆𝛩𝛻𝛪𝛯𝑇 𝛥𝛥𝛮𝛪🌙'
+global.stkowner = process.env.OWNER_NAME || 'ᯓ ᡣ𐭩 𝞓𝙎⚛️     ╰┈➤+𝟗𝟏𝟕𝟎𝟎𝟐𝟎𝟏𝟓𝟕𝟓𝟎                𝑺𝑻𝑰𝑪𝑲𝑬𝑹 𝑴𝑨𝑫𝑬 𝑩𝒀 𝑩𝑶𝑻🎀'
 
 //Watermark
 global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
